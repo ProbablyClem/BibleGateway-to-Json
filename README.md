@@ -21,6 +21,8 @@ You need to have Go installed on your machine. You can download it from [here](h
 
 Once you have the markdown files downloaded, copy the folder with the Markdown files (By default WEB) and paste it here.
 
+**Rename the folder 'bible' **
+
 Then run the following command:
 
 ````bash
